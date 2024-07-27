@@ -1,15 +1,1 @@
-i want to create a hospital management system using mern and blockchain in which i want a user dashboard in which user can sccess the past medical appointments and reports and using ai and ocr i want to generate a summary of the medical report also i want to add a calander functionalitry where the user can track the next medical appointments and also what medicines to take at what time reminding feature
-i want a hospital or doctor login where doctors can access the papient info incluind all the medical histroy of the visiting patient by scanning a qr code form the patient and a prescribe the papeint medicines in a specific priscription format for maintaining uniformity
-all this i also want to use blockchain to store the past medical records so that they cannot be tampered and can furter be used by insurance and medicalim companies to provied fast insurance claims and remove the hassle of tempering of the priesciption
-for doing all this i wan to use mern stack and blockchin
 
-prepare a overall roadmap , architecture and a user journey and folder structure and code for this project 
-
-
-ipfs api - 
-API Key: 2a2f4c247f9362784e5e
-API Secret: 65fa4b5bb45d42747241efebb4a59168e6e40f6a456e9c3adb25af17160a5af7
-JWT: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySW5mb3JtYXRpb24iOnsiaWQiOiJjNWM4ZjNkYi00MjUzLTQ2ZTctOGNjMC00NjBjOGQwMjIwNWYiLCJlbWFpbCI6InZpZGl0bWFoZXNod2FyaW9mZmljaWFsQGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJwaW5fcG9saWN5Ijp7InJlZ2lvbnMiOlt7ImRlc2lyZWRSZXBsaWNhdGlvbkNvdW50IjoxLCJpZCI6IkZSQTEifSx7ImRlc2lyZWRSZXBsaWNhdGlvbkNvdW50IjoxLCJpZCI6Ik5ZQzEifV0sInZlcnNpb24iOjF9LCJtZmFfZW5hYmxlZCI6ZmFsc2UsInN0YXR1cyI6IkFDVElWRSJ9LCJhdXRoZW50aWNhdGlvblR5cGUiOiJzY29wZWRLZXkiLCJzY29wZWRLZXlLZXkiOiIyYTJmNGMyNDdmOTM2Mjc4NGU1ZSIsInNjb3BlZEtleVNlY3JldCI6IjY1ZmE0YjViYjQ1ZDQyNzQ3MjQxZWZlYmI0YTU5MTY4ZTZlNDBmNmE0NTZlOWMzYWRiMjVhZjE3MTYwYTVhZjciLCJleHAiOjE3NTM0MjY5NTF9.2xZ7x2gr3ie-l2Ou3hlWx96tmDCjC11BJ9bItm4uapc
-
-
-spoil fuel region voyage volume split movie drop note foil board regular
